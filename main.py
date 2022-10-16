@@ -1,5 +1,5 @@
 import operations_rational as op
-import calculatortype as ty
+import choice as ty
 import operations_complex as opCom
 
 
